@@ -32,7 +32,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/vikneshsr13/cartoonify-image.git
+git clone https://github.com/vikneshsr13/cartoonify-an-image.git
 cd cartoonify-image
 
 Install the required libraries:
